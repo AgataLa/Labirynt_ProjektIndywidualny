@@ -1,0 +1,10 @@
+version: "3.5"
+services:
+  db:
+    build:
+      context: ./db_files
+    container_name: labirynt_db
+    volumes:
+      - ./db-data:/var/lib/postgresql/data
+    ports:
+      - "5050:5432"

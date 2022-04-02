@@ -28,6 +28,6 @@ To launch aMAzing you have to run command  ```java -jar .\aMAZEing.jar```  in co
 </p>
 
 
-## Authors
+## Author
 
 * [Agata Lachowiecka](https://github.com/AgataLa)

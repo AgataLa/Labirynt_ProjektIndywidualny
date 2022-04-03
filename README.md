@@ -31,3 +31,12 @@ To launch aMAzing you have to run command  ```java -jar .\aMAZEing.jar```  in co
 ## Author
 
 * [Agata Lachowiecka](https://github.com/AgataLa)
+
+## Links
+
+GUI menu tutorial:
+* https://www.youtube.com/playlist?list=PL4wcbt63yAbdtY-GOeuRjIePfUsukSJZ9
+
+Assests:
+* https://www.kenney.nl/assets
+* https://www.flaticon.com/
